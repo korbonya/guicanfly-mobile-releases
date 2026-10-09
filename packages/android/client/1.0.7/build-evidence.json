@@ -1,0 +1,13 @@
+{
+  "app": "client",
+  "version": "1.0.7",
+  "versionCode": 8,
+  "sourceCommit": "e599c341979cd6a9138bff31e103e861cc099894",
+  "mobileSourceTree": "caa6fc244ec46e908173281cdebc5de8ee906a3c",
+  "assetName": "guicanfly-client-1.0.7-arm64.apk",
+  "sha256": "5d1c01f4943f75cf37ae10088410ed449decb4c7545f1f833b6ada1a95f3b40d",
+  "builtLocally": true,
+  "size": 49457598,
+  "packageName": "com.guicanfly.client",
+  "signingCertificateSha256": "fac61745dc0903786fb9ede62a962b399f7348f0bb6f899b8332667591033b9c"
+}

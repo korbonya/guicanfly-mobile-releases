@@ -10,3 +10,5 @@ Téléchargements officiels : [guicanfly.com/fr/download](https://guicanfly.com/
 Nos applications seront disponibles très bientôt sur Google Play et l’App Store.
 
 Les APK sont compilées localement. Chaque release contient le manifeste de mise à jour, les empreintes SHA-256 et les références de compilation. Ce dépôt distribue les packages ; il ne contient pas le code de l’application.
+
+La version cliente **1.0.7** est également disponible pour installation manuelle : [APK signée et preuves de compilation](packages/android/client/1.0.7/).
